@@ -3,7 +3,6 @@
 This project is an Amazon clone built using JavaScript. It replicates key functionalities of an e-commerce platform and serves as a practice ground for core programming concepts and DOM manipulation.
 
 ![Home](images/main.png)
-![Checkout](images/checkout.png)
 
 ## Features
 - Dynamic content rendering using **DOM manipulation**
@@ -13,6 +12,8 @@ This project is an Amazon clone built using JavaScript. It replicates key functi
 - Integration of **external libraries** for enhanced functionality
 - Asynchronous programming with **callbacks** and **async/await**
 - Interactive **payment section** with live shipment and price updates
+  
+![Checkout](images/checkout.png)
 
 ## Tech Stack
 - **HTML**: Markup structure

@@ -2,6 +2,9 @@
 
 This project is an Amazon clone built using JavaScript. It replicates key functionalities of an e-commerce platform and serves as a practice ground for core programming concepts and DOM manipulation.
 
+![Home](images/main.png)
+![Checkout](images/checkout.png)
+
 ## Features
 - Dynamic content rendering using **DOM manipulation**
 - Implementation of **variables**, **objects**, **arrays**, and **if statements** for business logic

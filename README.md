@@ -34,7 +34,7 @@ This project is an Amazon clone built using JavaScript. It replicates key functi
 ## How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <"https://github.com/berkcantelseren/javascript-amazon-project">
    ```
 2. Navigate to the project folder:
    ```bash
